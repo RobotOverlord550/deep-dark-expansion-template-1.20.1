@@ -12,7 +12,7 @@
 		"sources": "https://github.com/FabricMC/fabric-example-mod"
 	},
 	"license": "MIT",
-	"icon": "assets/deep-dark-expansion/icon.png",
+	"icon": "assets/deepdarkexpansion/icon.png",
 	"environment": "*",
 	"entrypoints": {
 		"main": [
